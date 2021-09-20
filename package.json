@@ -1,0 +1,28 @@
+{
+  "name": "help-tracker",
+  "version": "1.0.0",
+  "description": "demo application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandopulle/help-tracker.git"
+  },
+  "keywords": [
+    "nodejs",
+    "demo",
+    "react",
+    "mongodb"
+  ],
+  "author": "Yohan Fernandopulle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernandopulle/help-tracker/issues"
+  },
+  "homepage": "https://github.com/fernandopulle/help-tracker#readme",
+  "dependencies": {
+    "concurrently": "^6.2.1"
+  }
+}
